@@ -2,7 +2,7 @@
 ![me][profilepic]
 ![linkedIn][LinkedInLogo]([linkedinProfile])
 
-[LinkedInLogo]: https://commons.wikimedia.org/wiki/Category:LinkedIn_icons#/media/File:Linkedin_circle.svg
+[LinkedInLogo]: https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png
 [linkedinProfile]:https://www.linkedin.com/in/lillianna-gund-208534195
 [profilepic]: https://media-exp1.licdn.com/dms/image/C4E03AQEtuIwsctzU7A/profile-displayphoto-shrink_400_400/0?e=1598486400&v=beta&t=-NiYcaZviH-zWlJ598IYzb95lKLldBivf1gOaZl_aYw
 
