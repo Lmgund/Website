@@ -3,9 +3,9 @@
 
 Hello, my name is Lillianna Gund.  I am a student it at Northeastern University studying Computer Science from Long Island New York. Thank you for stopping by.
 
-[Resume](Resume 2.pdf)
+[Resume](https://lmgund.github.io/resume 2.pdf) 
 
-[![linkedIn][LinkedInLogo]]([https://www.linkedin.com/in/lillianna-gund-208534195])
+[![linkedIn][LinkedInLogo]](https://www.linkedin.com/in/lillianna-gund-208534195)
 
 [LinkedInLogo]: https://logodix.com/logo/79688.ico
 [linkedinProfile]:https://www.linkedin.com/in/lillianna-gund-208534195
