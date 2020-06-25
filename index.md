@@ -1,6 +1,8 @@
 ## Welcome to my website!
 ![me][profilepic]
 
+Hello, my name is Lillianna Gund.  I am a student it at Northeastern University studying Computer Science. Thank you for stopping by.
+
 [![linkedIn][LinkedInLogo]]([linkedinProfile])
 
 [LinkedInLogo]: https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png =75x75
@@ -38,7 +40,7 @@
 * made in Java for Object Oriented Design
 * allows a user to create simple animations of ellipses and rectangles from a text input
 * 4 different view types: visual, edit, text, svg
- ** text and svg can write an output file!
+   * text and svg can write an output file!
  
 * [link to zip on github](https://github.com/Lmgund/EasyAnimator)
 
