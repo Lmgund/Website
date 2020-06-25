@@ -38,6 +38,8 @@
 * made in Java for Object Oriented Design
 * allows a user to create simple animations of ellipses and rectangles from a text input
 * 4 different view types: visual, edit, text, svg
- * text and svg can write an output file!
+ ** text and svg can write an output file!
+ 
+* [link to zip on github][https://github.com/Lmgund/EasyAnimator]
 
 
