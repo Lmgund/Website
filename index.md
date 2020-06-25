@@ -11,6 +11,8 @@ Hello, my name is Lillianna Gund.  I am a student it at Northeastern University 
 
 ### Projects
 
+As per class policy, no code is made public.
+
 #### machine learning for handwritten numbers _Fall 2019_
 * made in Dr. Racket ISL for Fundamentals of Computer Science 1
 * Compares handwritten number images to database of numbers to determine what number is written
