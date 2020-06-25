@@ -5,7 +5,7 @@ Hello, my name is Lillianna Gund.  I am a student it at Northeastern University 
 
 [Resume](Resume 2.pdf)
 
-[![linkedIn][LinkedInLogo]]([linkedinProfile])
+[![linkedIn][LinkedInLogo]]([https://www.linkedin.com/in/lillianna-gund-208534195])
 
 [LinkedInLogo]: https://logodix.com/logo/79688.ico
 [linkedinProfile]:https://www.linkedin.com/in/lillianna-gund-208534195
