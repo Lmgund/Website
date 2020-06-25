@@ -1,7 +1,9 @@
 ## Welcome to my website!
 ![me][profilepic]
 
-Hello, my name is Lillianna Gund.  I am a student it at Northeastern University studying Computer Science. Thank you for stopping by.
+Hello, my name is Lillianna Gund.  I am a student it at Northeastern University studying Computer Science from Long Island New York. Thank you for stopping by.
+
+[Resume](Resume 2.pdf)
 
 [![linkedIn][LinkedInLogo]]([linkedinProfile])
 
