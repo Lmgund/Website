@@ -3,7 +3,7 @@
 
 [![linkedIn][LinkedInLogo]]([linkedinProfile])
 
-[LinkedInLogo]: https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png =50x50
+[LinkedInLogo]: https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png =75x75
 [linkedinProfile]:https://www.linkedin.com/in/lillianna-gund-208534195
 [profilepic]: https://media-exp1.licdn.com/dms/image/C4E03AQEtuIwsctzU7A/profile-displayphoto-shrink_400_400/0?e=1598486400&v=beta&t=-NiYcaZviH-zWlJ598IYzb95lKLldBivf1gOaZl_aYw
 
@@ -40,6 +40,6 @@
 * 4 different view types: visual, edit, text, svg
  ** text and svg can write an output file!
  
-* [link to zip on github][https://github.com/Lmgund/EasyAnimator]
+* [link to zip on github](https://github.com/Lmgund/EasyAnimator)
 
 
