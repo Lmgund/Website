@@ -8,35 +8,35 @@
 
 ### Projects
 
-#### machine learning for writing numbers
+#### machine learning for handwritten numbers _Fall 2019_
 * made in Dr. Racket ISL for Fundamentals of Computer Science 1
 * Compares handwritten number images to database of numbers to determine what number is written
-_Fall 2019_
 
-#### Centipede
+
+#### Centipede _Spring 2020_
 
 * made in Java for Accelerated Fundamentals of Computer Science 2
-_Spring 2020_
 
-#### Maze Generator and Solver
+
+#### Maze Generator and Solver _Spring 2020_
 
 * made in Java for Accelerated Fundamentals of Computer Science 2
 * using Kruskal’s aglorithm generates a maze of a given size.
 * Solve the maze either through user input, Breadth-first or Depth-first search algorithms
-_Spring 2020_
 
-#### Marble Solitaire
+
+#### Marble Solitaire _Summer 2020_
 
 * made in Java for Object Oriented Design 
 * play a game of marble solitaire (English, European, or Triangle) with a given board length and or initial empty square
 * playable right in command prompt / terminal with text outputs
-_Summer 2020_
 
-#### Easy Animator
+
+#### Easy Animator _Summer 2020_
 
 * made in Java for Object Oriented Design
 * allows a user to create simple animations of ellipses and rectangles from a text input
 * 4 different view types: visual, edit, text, svg
  * text and svg can write an output file!
-_Summer 2020_
+
 
